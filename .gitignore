@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilados
+bin/
+obj/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store

@@ -1,0 +1,30 @@
+# Finales de línea estándar
+* text=auto
+
+# Archivos C#
+*.cs     text diff=csharp
+
+# Archivos de configuración de proyecto
+*.csproj text
+*.sln    text
+*.config text
+*.props  text
+*.targets text
+
+# Archivos XAML
+*.xaml   text
+
+# Archivos batch o PowerShell
+*.bat    text eol=crlf
+*.ps1    text
+
+# Shell scripts (si tienes alguno)
+*.sh     text eol=lf
+
+# Archivos binarios
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.dll    binary
+*.exe    binary
